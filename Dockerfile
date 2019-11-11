@@ -5,7 +5,7 @@
 # Author: Aly Khimji
 
 
-FROM registry.access.redhat.com/rhel7.4
+FROM registry.access.redhat.com/rhel7.6 
 
 LABEL version="v1.0"
 LABEL release="1"
